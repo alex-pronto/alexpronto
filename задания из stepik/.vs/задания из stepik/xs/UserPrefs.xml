@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3C1EC9C3-3AF8-4233-AA77-1BF44E669ABB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Console-Win-App-Learning/Geniy_Idiot_ConsoleApp/Geniy_Idiot_ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="../Console-Win-App-Learning/Geniy_Idiot_ConsoleApp/Geniy_Idiot_ConsoleApp/Program.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="задания из stepik" expanded="True">
+            <Node name="задания из stepik" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.задания_220из_220stepik PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/bin/Debug/net7.0/задания из stepik
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/bin/Debug/net7.0/задания из stepik.deps.json
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/bin/Debug/net7.0/задания из stepik.runtimeconfig.json
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/bin/Debug/net7.0/задания из stepik.dll
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/bin/Debug/net7.0/задания из stepik.pdb
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.csproj.AssemblyReference.cache
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.AssemblyInfoInputs.cache
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.AssemblyInfo.cs
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.csproj.CoreCompileInputs.cache
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.dll
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/refint/задания из stepik.dll
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.pdb
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/задания из stepik.genruntimeconfig.cache
+/Users/alexpronto/Projects/задания из stepik/задания из stepik/obj/Debug/net7.0/ref/задания из stepik.dll

@@ -1,0 +1,15 @@
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.deps.json
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.runtimeconfig.json
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.dll
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.pdb
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.dll
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/refint/ConsoleApp.dll
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.pdb
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/alexpronto/Projects/My/ConsoleApp/ConsoleApp/obj/Release/net7.0/ref/ConsoleApp.dll

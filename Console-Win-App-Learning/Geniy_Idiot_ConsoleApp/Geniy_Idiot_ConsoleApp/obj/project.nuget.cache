@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "NF1nMelVBYdeXqDEV5Wa80kV6gL3EEza0lCWRyZdyqQEpZiQ/0/CP9Yc1AuZGNCI5G76g0lmLdsCfeIkuHWDcQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexpronto/Projects/Console-Win-App-Learning/Geniy_Idiot_ConsoleApp/Geniy_Idiot_ConsoleApp/Geniy_Idiot_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexpronto/.nuget/packages/consoletables/2.4.2/consoletables.2.4.2.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/alexpronto/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

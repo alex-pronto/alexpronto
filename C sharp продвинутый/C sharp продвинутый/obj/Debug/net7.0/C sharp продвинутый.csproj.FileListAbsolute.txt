@@ -1,0 +1,15 @@
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/bin/Debug/net7.0/C sharp продвинутый
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/bin/Debug/net7.0/C sharp продвинутый.deps.json
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/bin/Debug/net7.0/C sharp продвинутый.runtimeconfig.json
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/bin/Debug/net7.0/C sharp продвинутый.dll
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/bin/Debug/net7.0/C sharp продвинутый.pdb
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.csproj.AssemblyReference.cache
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.AssemblyInfoInputs.cache
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.AssemblyInfo.cs
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.csproj.CoreCompileInputs.cache
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.dll
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/refint/C sharp продвинутый.dll
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.pdb
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/C sharp продвинутый.genruntimeconfig.cache
+/Users/alexpronto/Projects/C sharp продвинутый/C sharp продвинутый/obj/Debug/net7.0/ref/C sharp продвинутый.dll
